@@ -2,7 +2,7 @@ name: EnderChestInventory
 author: Fan-PMSTeam
 version: 1.0
 api: [3.0.0]
-main: EnderChest\Ec.php
+main: EnderChest\EcMain
 
 commands:
  ec:
