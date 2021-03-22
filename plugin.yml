@@ -1,0 +1,10 @@
+name: EnderChestInventory
+author: Fan-PMSTeam
+version: 1.0
+api: [3.0.0]
+main: EnderChest\Ec.php
+
+commands:
+ ec:
+  description: "Ouvire votre EnderChest"
+  permission: enderchest.cmd
