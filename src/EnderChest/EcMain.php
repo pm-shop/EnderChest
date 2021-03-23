@@ -22,8 +22,8 @@ class EcMain extends PluginBase implements Listener{
    $this->getLogger()->notice("EnderChest loaded ! ");
     
     @mkdir($this->getDataFolder());
-        $this->saveResource("config.yml");
-        $this->cfg = new Config($this->getDataFolder() . "config.yml", Config::YAML);
+        $this->saveResource("settings.yml");
+        $this->cfg = new Config($this->getDataFolder() . "settings.yml", Config::YAML);
   }
   
   public function onCommand(CommandSender $sender, Command $command, string $label, array $args): bool{
