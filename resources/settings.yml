@@ -1,1 +1,16 @@
-
+ # ____   __  __  ____    _   _____ 
+ #|  _ \ |  \/  |/ ___|  | | |_   _|___   __ _  _ __ ___   
+ #| |_) || |\/| |\___ \  | |   | | / _ \ / _` || '_ ` _ \ 
+ #|  __/ | |  | | ___) | | |   | ||  __/| (_| || | | | | |
+ #|_|    |_|  |_||____/  |_|   |_| \___| \__,_||_| |_| |_|  
+ #This plugin made By Fan
+ #You have problems with configurations? Contact me on
+ #Discord: " Fan.xyx#9999
+ #Mail: fancode.pro@gmail.com
+ #Good Usage :)
+ 
+ #Message that you do not have permission to use the command
+ no-pems: "c You have don't permission to use command !"
+ 
+ #Message that you cannot execute the command in the console
+ no-console: "You cannot run the command in the console !"
